@@ -6,3 +6,5 @@ Veg Manchurian
 pav bhaji
 panipuri
 bhel
+pasta
+
